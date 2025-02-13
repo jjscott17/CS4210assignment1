@@ -1,7 +1,9 @@
+#-------------------------------------------------------------------------
+# AUTHOR: Joseph Scott
 # FILENAME: decision_tree.py
-# SPECIFICATION: description of the program
+# SPECIFICATION: Program to plot the decision tree with the data from the contactlens.csv file
 # FOR: CS 4210- Assignment #1
-# TIME SPENT: how long it took you to complete the assignment
+# TIME SPENT: Around 4-5 hours for the entire assignment
 #-----------------------------------------------------------*/
 
 #IMPORTANT NOTE: DO NOT USE ANY ADVANCED PYTHON LIBRARY TO COMPLETE THIS CODE SUCH AS numpy OR pandas. You have to work here only with standard

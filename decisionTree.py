@@ -39,7 +39,7 @@ for row in db:
     X.append([age_map[row[0]], spectacle_map[row[1]], astigmatism_map[row[2]], tear_map[row[3]]])
 
 
-# print X and Y for verification
+# print X for verification
 for i in X:
     print(i)
 
@@ -52,6 +52,8 @@ class_map = {'Yes': 1, 'No': 2}
 
 for row in db:
     Y.append(class_map[row[4]])
+
+# print Y for verification
 print(Y)
 
 #fitting the decision tree to the data
